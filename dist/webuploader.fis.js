@@ -1,7 +1,7 @@
-/*! WebUploader 0.1.8-alpha */
+/*! WebUploader 0.0.2 */
 
 
-var jQuery = require('example:widget/ui/jquery/jquery.js');
+var jQuery = require('jquery');
 
 module.exports = (function( root, factory ) {
     var modules = {},
@@ -219,7 +219,7 @@ module.exports = (function( root, factory ) {
             /**
              * @property {String} version 当前版本号。
              */
-            version: '0.1.8-alpha',
+            version: '0.0.2',
     
             /**
              * @property {jQuery|Zepto} $ 引用依赖的jQuery或者Zepto对象。

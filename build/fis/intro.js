@@ -1,4 +1,4 @@
-var jQuery = require('example:widget/ui/jquery/jquery.js');
+var jQuery = require('jquery');
 
 module.exports = (function( root, factory ) {
     var modules = {},
