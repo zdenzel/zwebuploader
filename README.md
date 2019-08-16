@@ -1,4 +1,4 @@
-# z-webuploader
+# zwebuploader
 forked from fex-team/webuploader
 注释掉input.attr('capture', 'camera')，将默认调用相机 改为 调用相机/图片/相册
 
