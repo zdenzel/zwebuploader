@@ -1,4 +1,4 @@
-/*! WebUploader 0.0.3 */
+/*! WebUploader 0.0.1 */
 
 
 /**
@@ -774,7 +774,7 @@
             /**
              * @property {String} version 当前版本号。
              */
-            version: '0.0.3',
+            version: '0.0.1',
     
             /**
              * @property {jQuery|Zepto} $ 引用依赖的jQuery或者Zepto对象。
